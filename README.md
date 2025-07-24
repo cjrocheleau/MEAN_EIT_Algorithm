@@ -1,7 +1,7 @@
 # MEan Atlas Noser-based (MEAN) Algorithm
 ### C. Rocheleau, J.L. Mueller 
 ### Colorado State University
-
+MEan Atlas Noser-based (MEAN) algorithm for Electical Impedance Tomography reconstructions using a one-step Gauss-Newton solver using the mean admittivity distribution of an anatomical atlas of infants as an initial condition. Additional use of the anatomical atlas may optionally be used in a Schur Complement-based post-processing method.  
 ## MEAN_Reconstruction.m 
   MEAN reconstruction algorithm implementation
   ### INPUTS
