@@ -23,3 +23,5 @@ MEan Atlas Noser-based (MEAN) algorithm for Electical Impedance Tomography recon
    Example usage of MEAN algorithm. Repository contains data for two test cases
 
 Copyright 2025 Colorado State University Research Foundartion
+
+[![DOI](https://zenodo.org/badge/1025197630.svg)](https://doi.org/10.5281/zenodo.16415830)
